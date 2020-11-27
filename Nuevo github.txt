@@ -1,2 +1,1 @@
-probando 
-esto es un pull request
+probando la edicion de un archivo despues de clonarlo.
